@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import "./App.css";
-import About from "./Pages/About";
-import Home from "./Pages/Home";
-import Portfolio from "./Pages/Portfolio";
+import About from "./pages/About";
+import Home from "./pages/Home";
+import Portfolio from "./pages/Portfolio";
 import Nav from "./components/Nav";
 function App() {
   return (
